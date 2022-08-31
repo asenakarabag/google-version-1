@@ -1,0 +1,48 @@
+#idimg {
+   
+   text-align: center;
+    
+}
+table {
+    margin: auto;
+    width: 90%;
+    position: relative;
+    top: -4px;
+  
+   
+}
+
+.search {
+ 
+  text-align: center;
+  margin: auto;
+  background-color: #EEEEEE;
+}
+
+table tr td {
+    text-align: center;
+}
+
+.box1 {
+    background-color: #7EE5DA;
+    width: 37%;
+    font-size: medium;
+}
+
+.box2 {
+    background-color: #70CCC2;
+    width: 19.52%;
+    font-size:small;
+}
+
+.box3 {
+    background-color: #62B3AA;
+    font-size: small;
+}
+
+p{
+    text-align: center;
+    font-size: small;
+    position: relative;
+    top: -1px;
+}
